@@ -1,0 +1,28 @@
+/* estilos.css */
+
+body {
+    font-family: cursive, animation-duration;
+    background-color: whitesmoke;
+    margin: 20px;
+    padding: 0;
+}
+
+h1 {
+    color: darkorange;
+}
+
+/* Nuevos estilos para el header */
+header {
+    background-color: whitesmoke;  
+    text-align: center; 
+    padding: 20px; 
+    font-style: italic; 
+}
+
+h2 {
+    margin: 15px
+}
+
+h3 {
+    color: red;
+}
